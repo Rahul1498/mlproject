@@ -1,5 +1,7 @@
 pandas
 numpy
 seaborn
-logger
+matplotlib
+scikit-learn
+catboost
 #-e .
